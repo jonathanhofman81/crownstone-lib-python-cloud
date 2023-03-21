@@ -9,7 +9,7 @@ setup(
     version="1.4.9",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/crownstone/crownstone-lib-python-cloud',
+    url='https://github.com/Crownstone-Community/crownstone-lib-python-cloud',
     author='Crownstone B.V.',
     packages=find_packages(exclude=['examples', 'tests']),
     install_requires=list(package.strip() for package in open('requirements.txt')),
