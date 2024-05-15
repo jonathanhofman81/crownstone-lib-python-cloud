@@ -1,8 +1,8 @@
 """Constants for the Crownstone cloud library."""
 from typing import Final
 
-BASE_URL: Final = "https://cloud.crownstone.rocks/api/"
-LOGIN_URL: Final = "https://cloud.crownstone.rocks/api/users/login"
+BASE_URL: Final = "https://cloud.ownstone.org/api/"
+LOGIN_URL: Final = "https://cloud.ownstone.org/api/users/login"
 
 # Crownstone abilities
 DIMMING_ABILITY: Final = "dimming"
